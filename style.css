@@ -1,0 +1,274 @@
+body {
+    background-color: rgb(222, 236, 244);
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    background-color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+   border-radius: 30px;
+}
+
+.first {
+    padding-top: 40px;
+    display: flex;
+    gap: 200px;
+
+}
+.fl{
+    display: flex;
+    gap: 5px;
+}
+.axom {
+    
+    margin-left: 100px;
+}
+.glob{
+    height: 20px;
+    width: 30px;
+    margin-top: 15px;
+}
+.nav1 {
+    font-size:medium;
+    display: flex;
+    gap: 40px;
+    color: rgb(58, 57, 57);
+}
+.stextone{
+    margin-top: -5px;
+}
+.para1{
+    
+}
+.navone{
+    display: flex;
+gap: 10px;
+    margin-left: 0px;
+   
+}
+.one{
+   margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 180px;
+}
+.two{
+    margin-left: 100px;
+}
+.navbtn1 {
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: large;
+    font-weight: bolder;
+    height: 40px;
+    width: 140px;
+    position: absolute;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.stretchedText {
+    letter-spacing: 2px;
+    display: inline-block;
+    font-size: 50px;
+    transform: scaleY(1);
+    transform-origin: 0 0;
+    line-height: -20px;
+    
+  }
+ .nav1{
+    display: flex;
+    gap: 10px;
+ }
+ .ui{
+   padding-right: 60px;
+    margin-top: 120px;
+    margin-left: 0px;
+
+ }
+ .globalagency{
+    font-weight:400;
+ }
+  .navbtn2 {
+    color: white;
+    background-color: rgb(99, 156, 231);
+    border: none;
+    font-size: large;
+    font-weight: bolder;
+    height: 40px;
+    width: 170px;
+    position: absolute;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.twoone{
+   
+    margin-left:-100px;
+    background-color: rgb(236, 234, 234);
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.twotwo{
+   
+    margin-left:-100px;
+    padding-top: 100px;
+    display: flex;
+    gap:200px;
+}
+.stexttwo{
+    
+    margin-left: 90px;
+}
+.para2{
+margin-left: 100px;
+margin-top: -5px;
+font-size: smaller;
+font-weight: 300;
+color: rgb(83, 81, 81);
+}
+.imglogo{
+    height: 80px;
+    width:150px;
+    margin-left: -25px;
+    
+}
+.logos{
+    display: flex;
+    gap: 100px;
+}
+.gang{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.picline{
+   
+    margin-left:150px;
+}
+.para3{
+    
+margin-top: -5px;
+font-size: smaller;
+font-weight: 300;
+color: rgb(83, 81, 81);
+}
+.navbtn3 {
+    color: white;
+    background-color: rgb(99, 156, 231);
+    border: none;
+    font-size: large;
+    font-weight: bolder;
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+ .piccontent{
+    padding-right: 30px;
+ }
+ .three{
+    
+ }
+ .threeone{
+    margin-left: 120px;
+ }
+ .ser{
+    margin-left: 10px;
+    
+ }
+ .three{
+    display: flex;
+    gap: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+ .table{
+    height: 400px;
+    width: 800px;
+ }
+ .web{
+    font-size:larger;
+ }
+ .four{
+    
+ }
+ .fourone{
+    margin-left: 120px;
+    padding-top: 0px;
+   
+ }
+ .member{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    padding-right: 150px;
+ }
+ .mem{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+ }
+ .membername{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    padding-right: 90px;
+
+ }
+ .mem1{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    font-weight: 900;
+    font-size: large;
+ }
+ .memberpos{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    padding-right: 90px;
+    margin-top: -170px;
+    margin-bottom: -100px;
+
+ }
+ .mem2{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    font-weight: 400;
+    font-size: smaller;
+    color:rgb(58, 57, 57) ;
+ }
+ .freq{
+    text-align: center;
+ }
+ .faqone{
+    display: flex;
+    gap:150px;
+    margin-left: 250px;
+   
+    
+ }
+ .faq{
+    padding-bottom: 100px;
+    background-color: rgb(236, 234, 234);
+    margin-top: 50px;
+    padding-top: 50px;
+ }
+ .faqtwo{
+    display: flex;
+    gap:150px;
+    margin-left: 250px;
+ }
+ .a,.b,.c,.d{
+
+ }
+ li{
+    font-size: smaller;
+    margin-left: -29px;
+    color:rgb(58, 57, 57) ;
+    
+ }
